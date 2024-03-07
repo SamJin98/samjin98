@@ -65,7 +65,7 @@ sections:
         - title: Research Assistant
           company: Case Western Reserve University
           company_url: 'https://case.edu/'
-          company_logo: org-x
+          company_logo: org-case
           location: Cleveland, Ohio
           date_start: '2024-02-01'
           date_end: ''
