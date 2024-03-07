@@ -1,5 +1,5 @@
 ---
-title: Causal Coherence in Image Inpainting Integrating Causal Reasoning with VAEs for Image Restoration
+title: Causal Coherence in Image Inpainting - Integrating Causal Reasoning with VAEs for Image Restoration
 summary: Course project for both CSDS 600 - Deep Generative Models and CSDS 600 - Machine Learning and Causal Inference
 tags:
   - Deep Learning

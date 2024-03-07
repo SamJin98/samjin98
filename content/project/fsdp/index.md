@@ -1,6 +1,6 @@
 ---
-title: Causal Coherence in Image Inpainting Integrating Causal Reasoning with VAEs for Image Restoration
-summary: Course project for both CSDS451 Designing High Performant Systems for AI
+title: Enhancing Large-Scale Model Training - A Comparative Study of Custom FSDP Implementations
+summary: Course project for CSDS451 Designing High Performant Systems for AI
 tags:
   - Distributed System
   - FSDP
