@@ -122,4 +122,9 @@ Hello! My name is Ruilin (Sam) Jin, I'm currently pursuing a Master of Science i
 My academic and research endeavors focus on machine learning, data mining, computer vision, and generative models. I am particularly fascinated by the applications of these fields in image and video editing and synthesis.
 
 I'm a contributor to [Hello Algo](https://www.hello-algo.com/), a data structures and algorithms crash course with animated illustrations and codes. Check it out!
+
+<span style="color:red; font-weight:600">
+I am actively seeking employment opportunities in the fields of Full Stack Development, Frontend Development, and Machine Learning Engineering.
+</span>
+
 {style="text-align: justify;"}
