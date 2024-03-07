@@ -2,9 +2,8 @@
 title: Causal Coherence in Image Inpainting Integrating Causal Reasoning with VAEs for Image Restoration
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
-  - Generative Models
-  - Causal Inference
+  - Distributed System
+  - FSDP
 date: '2023-12-08T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
