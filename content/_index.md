@@ -67,7 +67,7 @@ sections:
           company_url: 'https://case.edu/'
           company_logo: org-x
           location: Cleveland, Ohio
-          date_start: '2024-02'
+          date_start: '2024-02-01'
           date_end: ''
           description: |2-
               Responsibilities include:
