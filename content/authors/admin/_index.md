@@ -38,10 +38,10 @@ education:
   courses:
     - course: MS in Computer Science
       institution: Case Western Reserve University
-      year: 2025
+      year: 2023 - Present
     - course: BS in Information Technology and Web Science; Minor in Philosophy
       institution: Rensselaer Polytechnic Institute
-      year: 2021
+      year: 2016 - 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
