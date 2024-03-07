@@ -79,7 +79,7 @@ sections:
         - title: Junior Full Stack Developer
           company: China Railway Construction Engineering Group
           company_url: 'http://www.crecg.com/english/'
-          company_logo: org-x
+          company_logo: org-crecg
           location: Beijing China
           date_start: '2021-06-01'
           date_end: '2023-08-01'
