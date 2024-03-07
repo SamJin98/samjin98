@@ -1,5 +1,5 @@
 ---
-title: Causal Coherence in Image Inpainting: Integrating Causal Reasoning with VAEs for Image Restoration
+title: Causal Coherence in Image Inpainting Integrating Causal Reasoning with VAEs for Image Restoration
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
