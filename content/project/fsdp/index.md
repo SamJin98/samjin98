@@ -11,12 +11,12 @@ date: '2023-12-08T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
 
-url_code: 'https://github.com/SamJin98/CSDS600-DeepGenerativeModels-CausalInference'
+url_code: 'https://github.com/SamJin98/CSDS451DesigningHighPerformantSystemsforAI'
 url_pdf: 'project/fsdp/fsdp.pdf'
 url_slides: ''
 url_video: ''
@@ -29,4 +29,4 @@ url_video: ''
 slides: example
 ---
 
-The field of image inpainting has witnessed substantial growth, fueled by the need for advanced techniques in digital forensics, image restoration, and object removal. Traditional methods, however, often fall short in maintaining semantic coherence. Our research introduces a approach to image inpainting that integrates causal reasoning within a novel generative process, leveraging the strengths of Variational Autoencoders (VAEs) and Structural Causal Models (SCMs). We propose a model that adapts the Causal Layer of CausalVAE, enhanced by the structural elements of NVAE, to address three primary challenges: creating expressive neural networks, scaling up training for larger image sizes and groups, and maintaining training stability. This model focuses on the coherent reconstruction of missing or corrupted image regions through an understanding of causal relationships among features. Our approach not only enhances the semantic coherence and realism of inpainted images but also fosters interpretability in the latent space, paving the way for more reliable and comprehensible image restoration processes.
+This project evaluates a custom Fully Sharded Data Parallel (FSDP) framework using PyTorch and MPI4Py for training the GPT-2 and BERT model. The aim is to compare the efficiency and effectiveness of this custom framework against PyTorch Lightning's standard Distributed Data Parallel (DDP) and FSDP methods. We first establish a performance baseline using PyTorch Lightning’s distributed training features. Then, we develop and test a novel FSDP system with MPI4Py, focusing on managing the extensive requirements of the GPT-2 model. Performance is measured in terms of training time, GPU memory usage, throughput, and model accuracy. Success is defined by the custom framework's ability to enhance training efficiency and scalability, compared to the baselines, while maintaining or improving model accuracy. The project aims to provide insights into the potential of custom FSDP implementations for large-scale model training.
