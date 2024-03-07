@@ -1,6 +1,6 @@
 ---
 title: Causal Coherence in Image Inpainting Integrating Causal Reasoning with VAEs for Image Restoration
-summary: An example of using the in-built project page.
+summary: Course project for both CSDS 600 - Deep Generative Models and CSDS 600 - Machine Learning and Causal Inference
 tags:
   - Deep Learning
   - Generative Models
@@ -18,8 +18,8 @@ links:
 
 url_code: 'https://github.com/SamJin98/CSDS600-DeepGenerativeModels-CausalInference'
 url_pdf: 'project/causal_coherence/causal_coherence.pdf'
-url_slides: ''
-url_video: ''
+# url_slides: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
