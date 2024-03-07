@@ -65,7 +65,7 @@ sections:
         - title: Research Assistant
           company: Case Western Reserve University
           company_url: 'https://case.edu/'
-          company_logo: org-cwru
+          company_logo: org-x
           location: Cleveland, Ohio
           date_start: '2024-02'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Junior FUll Stack Developer
           company: China Railway Construction Engineering Group
           company_url: ''
-          company_logo: org-CREC
+          company_logo: org-x
           location: Beijing China
           date_start: '2021-06'
           date_end: '2023-08'
@@ -91,7 +91,7 @@ sections:
         - title: Research Assistant
           company: University of Chinese Academy of Sciences
           company_url: 'https://english.ucas.ac.cn/'
-          company_logo: org-ucas
+          company_logo: org-x
           location: Beijing, China
           date_start: '2018-01'
           date_end: '2020-12'
@@ -104,7 +104,7 @@ sections:
         - title: Software Engineer Internship
           company: IBM
           company_url: 'https://www.ibm.com/us-en'
-          company_logo: org-ibm
+          company_logo: org-x
           location: New York
           date_start: '2019-09'
           date_end: '2019-12'
