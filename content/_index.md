@@ -62,27 +62,57 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Assistant
+          company: Case Western Reserve University
+          company_url: 'https://case.edu/'
+          company_logo: org-cwru
+          location: Cleveland, Ohio
+          date_start: '2024-02'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Led AI4EDU initiative, integrating generative AI into education to enhance student learning and interaction.
+              * Developed interactive platforms for coding education and essay writing, improving student engagement and creativity.
+              * Managed tech stack for educational projects, optimizing tools like React, FastAPI, and AWS for effective data collection and analysis.
+        - title: Junior FUll Stack Developer
+          company: China Railway Construction Engineering Group
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-CREC
+          location: Beijing China
+          date_start: '2021-06'
+          date_end: '2023-08'
+          description: |2-
+              Responsibilities include:
+
+              * Spearheaded frontend architecture for an R&D platform, serving over 350 developers and 500,000 users. Developed and maintained a comprehensive component library.
+              * Led a team of 6 frontend developers, collaborating with 12 backend developers on a marketing management system, featuring project management, contract management, bidding management, and other 8 different functions.
+              * Developed a proprietary question-answering bot utilizing Large Language Models, tailored for internal data.
+        - title: Research Assistant
+          company: University of Chinese Academy of Sciences
+          company_url: 'https://english.ucas.ac.cn/'
+          company_logo: org-ucas
+          location: Beijing, China
+          date_start: '2018-01'
+          date_end: '2020-12'
+          description: |2-
+              Responsibilities include:
+
+              * Led threat assessment initiatives and formulated security policies targeting software vulnerabilities; conducted comprehensive analyses on vulnerability formation and impact, enhancing organizational defense capabilities.
+              * Applied advanced techniques such as fuzz testing, dynamic and static analysis, and symbolic execution using tools like AFL, Panda, IDA Pro, and S2E to identify critical features in the exploitation process and mitigate potential threats.
+              * Improved the efficiency of AFL fuzz testing and vulnerability detection processes by optimizing mutation strategies and program analysis, leading to a higher rate of target path activation and overall system security.
+        - title: Software Engineer Internship
+          company: IBM
+          company_url: 'https://www.ibm.com/us-en'
+          company_logo: org-ibm
+          location: New York
+          date_start: '2019-09'
+          date_end: '2019-12'
+          description: |2-
+              Responsibilities include:
+
+              * Contributed to the design and execution of a Use Case Analysis report, UI/UX mockup, and an extensive roadmap tailored for IBM Watson's latest digital twin technology after rigorous semester-long research
+              * Delved into the analysis encompassing potential applications, market feasibility, and the intricate technological aspects of the platform, providing insights into its potential growth trajectory and industry implications
     design:
       columns: '2'
   - block: accomplishments
