@@ -3,7 +3,9 @@ title: Causal Coherence in Image Inpainting Integrating Causal Reasoning with VA
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Generative Models
+  - Causal Inference
+date: '2023-12-08T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -13,12 +15,9 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+
 url_code: 'https://github.com/SamJin98/CSDS600-DeepGenerativeModels-CausalInference'
-url_pdf: ''
+url_pdf: 'project/causal_coherence/causal_coherence.pdf'
 url_slides: ''
 url_video: ''
 
