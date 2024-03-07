@@ -77,7 +77,7 @@ sections:
               * Managed tech stack for educational projects, optimizing tools like React, FastAPI, and AWS for effective data collection and analysis.
         - title: Junior Full Stack Developer
           company: China Railway Construction Engineering Group
-          company_url: ''
+          company_url: 'http://www.crecg.com/english/'
           company_logo: org-x
           location: Beijing China
           date_start: '2021-06-01'
