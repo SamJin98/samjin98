@@ -6,8 +6,8 @@ title: 金瑞霖 Sam
 name_pronunciation: Ruilin Jin
 
 # Full name (for SEO)
-first_name: Ruilin Jin
-last_name: Ruilin Jin
+first_name: Ruilin 
+last_name: Jin
 
 # Status emoji
 status:
@@ -117,5 +117,13 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! My name is Ruilin (Sam) Jin, I'm currently pursuing a Master of Science in Computer Science in the [Department of Computer & Data Sciences](https://engineering.case.edu/computer-and-data-sciences) at [Case Western Reserve University (CWRU)](https://case.edu/). Previously, I completed my Bachelor of Science in [Information Technology and Web Science](https://science.rpi.edu/itws) at the [School of Science](https://science.rpi.edu/), [Rensselaer Polytechnic Institute](https://www.rpi.edu/) in 2021. Following my undergraduate studies, I gained two years of industry experience as a full-stack developer at CREC Cloud Net Information Technology Co., Ltd.
+
+My academic and research endeavors focus on machine learning, data mining, computer vision, and generative models. I am particularly fascinated by the applications of these fields in image and video editing and synthesis.
+
+I'm a contributor to [Hello Algo](https://www.hello-algo.com/), a data structures and algorithms crash course with animated illustrations and codes. Check it out!
+
+<span style="color:red; font-weight:600">
+I am actively seeking employment opportunities in the fields of Full Stack Development, Frontend Development, and Machine Learning Engineering.
+</span>
 {style="text-align: justify;"}
