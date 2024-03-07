@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 金瑞霖 Sam
+title: Ruilin (Sam) Jin
 
 # Name pronunciation (optional)
-name_pronunciation: Ruilin Jin
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ruilin 
