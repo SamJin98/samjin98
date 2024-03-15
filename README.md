@@ -12,4 +12,4 @@ I'm a contributor to [Hello Algo](https://www.hello-algo.com/), a data structure
 
 ## 📖 More About Me
 
-Visit my website: [https://samjin98.github.io/samjin98/](https://samjin98.github.io/samjin98/)
+Visit my website: [https://samjin98.github.io/samjin98/](https://samjin98.github.io/samjin98/) 
