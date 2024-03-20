@@ -73,7 +73,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Contrited to AI4EDU research, integrating generative AI into education to enhance student learning and interaction.
+              * Contributed to AI4EDU research, integrating generative AI into education to enhance student learning and interaction.
               * Developed interactive platforms for coding education and essay writing, improving student engagement and creativity.
               * Managed tech stack for educational projects, optimizing tools like React, FastAPI, and AWS for effective data collection and analysis.
         - title: Junior Full Stack Developer
