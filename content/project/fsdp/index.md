@@ -1,6 +1,6 @@
 ---
 title: Enhancing Large-Scale Model Training - A Comparative Study of Custom FSDP Implementations
-summary: Course project for CSDS451 Designing High Performant Systems for AI
+summary: Course project for CSDS 451 Designing High Performant Systems for AI
 tags:
   - Distributed System
   - FSDP
