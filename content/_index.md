@@ -77,8 +77,8 @@ sections:
               * Developed interactive platforms for coding education and essay writing, improving student engagement and creativity.
               * Managed tech stack for educational projects, optimizing tools like React, FastAPI, and AWS for effective data collection and analysis.
         - title: Junior Full Stack Developer
-          company: China Railway Construction Engineering Group
-          company_url: 'http://www.crecg.com/english/'
+          company: CREC Cloud Net Information Technology Co., Ltd.
+          company_url: 'https://www.crecg.com/english/index.html'
           company_logo: org-x
           location: Beijing China
           date_start: '2021-06-01'
