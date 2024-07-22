@@ -31,7 +31,7 @@ bio: My academic and research endeavors focus on machine learning, data mining, 
 interests:
   - Generative Models
   - Machine Learning
-  - Full Stack Development
+  - Software Engineering
 
 # Education to show in About widget
 education:
@@ -111,7 +111,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/RuilinJin_Resume_SDE_EN.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -124,7 +124,7 @@ My academic and research endeavors focus on machine learning, data mining, compu
 I'm a contributor to [Hello Algo](https://www.hello-algo.com/), a data structures and algorithms crash course with animated illustrations and codes. Check it out!
 
 <span style="font-weight:600">
-I am actively seeking employment opportunities in the fields of Full Stack Development, Frontend Development, and Machine Learning Engineering.
+I am actively seeking employment opportunities in the fields of Software Engineering and Machine Learning Engineering.
 </span>
 
 {style="text-align: justify;"}

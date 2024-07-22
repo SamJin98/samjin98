@@ -73,6 +73,8 @@ sections:
           description: |2-
               *The research explores integrating generative AI into education, focusing on a proposed NSF project to implement this technology in classrooms. It examines behavioral research on human-technology interactions, aiming to enhance learning through AI. The goal is to optimize AI's role in supporting and improving educational outcomes across different learning contexts.*
 
+              <br/><br/>
+
               * **RAG Agent Development**: Developed and launched a RAG agent using Next.js and FastAPI, handling 400,000+ daily requests and saving 32 work hours daily. Integrated JWT authentication and SSO, and designed an RBAC model preventing over 300 unauthorized access attempts.
 
 

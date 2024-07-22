@@ -4,7 +4,7 @@ summary: Course project for both CSDS 435 - Data Mining
 tags:
   - Data Mining
   - Machine Learning
-date: '2023-12-08T00:00:00Z'
+date: '2024-4-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
