@@ -4,6 +4,7 @@ summary: Course project for CSDS 451 Designing High Performant Systems for AI
 tags:
   - Distributed System
   - FSDP
+  - Machine Learning
 date: '2023-12-08T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
