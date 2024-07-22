@@ -71,12 +71,15 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              *The research explores integrating generative AI into education, focusing on a proposed NSF project to implement this technology in classrooms. It examines behavioral research on human-technology interactions, aiming to enhance learning through AI. The goal is to optimize AI's role in supporting and improving educational outcomes across different learning contexts.*
 
-              * Contributed to AI4EDU research, integrating generative AI into education to enhance student learning and interaction.
-              * Developed interactive platforms for coding education and essay writing, improving student engagement and creativity.
-              * Managed tech stack for educational projects, optimizing tools like React, FastAPI, and AWS for effective data collection and analysis.
-        - title: Junior Full Stack Developer
+              * **RAG Agent Development**: Developed and launched a RAG agent using Next.js and FastAPI, handling 400,000+ daily requests and saving 32 work hours daily. Integrated JWT authentication and SSO, and designed an RBAC model preventing over 300 unauthorized access attempts.
+
+
+              * **Data Management and Optimization**: Designed an algorithm for embedding course-specific and user-specific material into different namespaces in Pinecone, improving data retrieval time from 45 seconds to 10 seconds. Ensured data isolation for multitenancy using OpenAI endpoints.
+               
+              * **Enhanced Query Processing**: Improved the RAG process by merging retrievers in LangChain for multi-source querying, increasing agent response accuracy by 25% for complex queries, and boosting user satisfaction by 20%.
+        - title: Software Engineer
           company: CREC Cloud Net Information Technology Co., Ltd.
           company_url: 'https://www.crecg.com/english/index.html'
           company_logo: org-x
@@ -84,11 +87,9 @@ sections:
           date_start: '2021-06-01'
           date_end: '2023-08-01'
           description: |2-
-              Responsibilities include:
-
-              * Spearheaded frontend architecture for an R&D platform, serving over 350 developers and 500,000 users. Developed and maintained a comprehensive component library.
-              * Led a team of 6 frontend developers, collaborating with 12 backend developers on a marketing management system, featuring project management, contract management, bidding management, and other 8 different functions.
-              * Developed a proprietary question-answering bot utilizing Large Language Models, tailored for internal data.
+              * **R&D Platform**: Led the development of a Vue.js micro-frontend scaffold with a component library supporting 350+ developers and 500k+ users, accelerating the development cycle by 40%. Implemented CI/CD pipelines reducing deployment times by 50% and established coding standards reducing error rates by 30%.
+              * **Marketing Management System**: Managed an Agile team to consolidate 40+ pages, improving system efficiency by 20%. Implemented virtual scrolling and lazy loading, reducing page load times by 90%, and optimized Webpack, cutting deployment time from 10 to 4 minutes.
+              * **AI Middle Platform**: Developed a BERT-based name comparison function achieving 95% accuracy, finetuned ChatGLM-6B improving response accuracy by 15%, and engineered a real-time data streaming system reducing processing time and costs by 60%. Trained a face recognition system with 98% accuracy, saving $3,000 in third-party API costs.
         - title: Research Assistant
           company: University of Chinese Academy of Sciences
           company_url: 'https://english.ucas.ac.cn/'
@@ -97,8 +98,6 @@ sections:
           date_start: '2018-01-01'
           date_end: '2020-12-01'
           description: |2-
-              Responsibilities include:
-
               * Led threat assessment initiatives and formulated security policies targeting software vulnerabilities; conducted comprehensive analyses on vulnerability formation and impact, enhancing organizational defense capabilities.
               * Applied advanced techniques such as fuzz testing, dynamic and static analysis, and symbolic execution using tools like AFL, Panda, IDA Pro, and S2E to identify critical features in the exploitation process and mitigate potential threats.
               * Improved the efficiency of AFL fuzz testing and vulnerability detection processes by optimizing mutation strategies and program analysis, leading to a higher rate of target path activation and overall system security.
@@ -110,10 +109,9 @@ sections:
           date_start: '2019-09-01'
           date_end: '2019-12-01'
           description: |2-
-              Responsibilities include:
+              * Designed and developed a Use Case Analysis report and a detailed roadmap for IBM Watson’s digital twin technology. Created a prototype using React.js for the front end and GoLang with Gin for the backend, integrating RESTful APIs for seamless data communication.
 
-              * Engaged in the design and development of a Use Case Analysis report, UI/UX mock-up, and a detailed roadmap for IBM Watson’s digital twin technology.
-              * Conducted comprehensive analysis on potential applications, market viability, and technical aspects, contributing to strategic insights for platform growth and industry impact.
+              * Conducted competitive analysis on potential applications, market viability, and technical aspects, using Pandas for data analysis and Tableau for data visualization. Provided strategic insights that led to the adoption of new features, generating $108,363 in total revenue.
     design:
       columns: '2'
   # - block: accomplishments
