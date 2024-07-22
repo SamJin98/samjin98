@@ -75,7 +75,7 @@ sections:
 
               <br/><br/>
 
-              * **RAG Agent Development**: Developed and launched a RAG agent using Next.js and FastAPI, handling 400,000+ daily requests and saving 32 work hours daily. Integrated JWT authentication and SSO, and designed an RBAC model preventing over 300 unauthorized access attempts.
+              * **RAG Agent Development**: Developed and launched a RAG agent using Next.js and FastAPI, handling 8,000+ daily requests and saving 32 work hours daily. Integrated JWT authentication and SSO, and designed an RBAC model preventing over 300 unauthorized access attempts.
 
 
               * **Data Management and Optimization**: Designed an algorithm for embedding course-specific and user-specific material into different namespaces in Pinecone, improving data retrieval time from 45 seconds to 10 seconds. Ensured data isolation for multitenancy using OpenAI endpoints.

@@ -111,7 +111,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/RuilinJin_Resume_SDE_EN.pdf
+    link: uploads/RuilinJin_Resume_SDE_EN_0722.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
