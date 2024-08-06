@@ -4,7 +4,7 @@ Hello! My name is **Ruilin (Sam) Jin**. I'm currently pursuing a Master of Scien
 
 ## 🌟 My Interests
 
-My academic and research endeavors focus on machine learning, data mining, computer vision, and generative models. I am particularly fascinated by the applications of these fields in image and video editing and synthesis.
+My academic and research endeavors focus on machine learning, deep learning, generative models, and LLMs. I am particularly fascinated by the applications of these fields in real world use cases.
 
 ## 🤝 Contributions
 
