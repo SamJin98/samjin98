@@ -63,6 +63,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+
+        - title: Research Assistant
+          company: Case Western Reserve University
+          company_url: 'https://case.edu/'
+          company_logo: org-x
+          location: Cleveland, Ohio
+          date_start: '2024-04-01'
+          date_end: ''
+          description: |2-
+              *The Research aimed to improve the inference efficiency of large language models; by optimizing the attention mechanism and KV Cache usage in the speculative decoding scenario, the project enhanced efficiency and reduced computational burden.*
+
+              <br/><br/>
+
+              * Designed and implemented KV Cache optimization strategies; used pooling techniques and score-based attention selection mechanisms to effectively reduce cache occupancy.
+
+
+              * Managed the Token generation process, optimized attention distribution, improved the model's inference accuracy and responsiveness.
+               
+              * Conducted in-depth analysis of the Draft Model; identified and implemented optimization and deletion strategies for KV Cache to enhance model performance.
+
         - title: Research Assistant
           company: Case Western Reserve University
           company_url: 'https://case.edu/'
@@ -75,12 +95,15 @@ sections:
 
               <br/><br/>
 
-              * **RAG Agent Development**: Developed and launched a RAG agent using Next.js and FastAPI, handling 8,000+ daily requests and saving 32 work hours daily. Integrated JWT authentication and SSO, and designed an RBAC model preventing over 300 unauthorized access attempts.
+              * Integrated multiple cutting-edge technology stacks; automated project deployment with Vercel and GitHub Actions, which saved 32 working hours daily and effectively processed over 8,000 requests, significantly improving development efficiency and system stability.
 
 
-              * **Data Management and Optimization**: Designed an algorithm for embedding course-specific and user-specific material into different namespaces in Pinecone, improving data retrieval time from 45 seconds to 10 seconds. Ensured data isolation for multitenancy using OpenAI endpoints.
+              * Developed identity authentication middleware, integrated it with the school's SSO system, and used JWT for identity verification; built an RBAC-based access control system that comprehensively managed interface calls, user permissions, and access control, successfully preventing over 300 unauthorized access attempts.
                
-              * **Enhanced Query Processing**: Improved the RAG process by merging retrievers in LangChain for multi-source querying, increasing agent response accuracy by 25% for complex queries, and boosting user satisfaction by 20%.
+              * Embedded data into Pinecone namespaces, implemented a multi-tenant system, improved data retrieval efficiency, and reduced retrieval time from 45 seconds to 10 seconds.
+
+              * Developed the Retrieve Merger feature and optimized the effectiveness of Retriever in LangChain; achieved multi-source queries and provided accurate answers, improved the proxy response accuracy rate for complex multi-source queries by 25%, hence increasing user satisfaction by 20%.
+
         - title: Software Engineer
           company: CREC Cloud Net Information Technology Co., Ltd.
           company_url: 'https://www.crecg.com/english/index.html'
@@ -89,9 +112,14 @@ sections:
           date_start: '2021-06-01'
           date_end: '2023-08-01'
           description: |2-
-              * **R&D Platform**: Led the development of a Vue.js micro-frontend scaffold with a component library supporting 350+ developers and 500k+ users, accelerating the development cycle by 40%. Implemented CI/CD pipelines reducing deployment times by 50% and established coding standards reducing error rates by 30%.
-              * **Marketing Management System**: Managed an Agile team to consolidate 40+ pages, improving system efficiency by 20%. Implemented virtual scrolling and lazy loading, reducing page load times by 90%, and optimized Webpack, cutting deployment time from 10 to 4 minutes.
-              * **AI Middle Platform**: Developed a BERT-based name comparison function achieving 95% accuracy, finetuned ChatGLM-6B improving response accuracy by 15%, and engineered a real-time data streaming system reducing processing time and costs by 60%. Trained a face recognition system with 98% accuracy, saving $3,000 in third-party API costs.
+              * **AI Middle Platform**: 
+              - Developed a text similarity comparison feature using the BERT model, which achieved a 95\% accuracy rate, reducing processing time from 3 hours to 2 minutes.
+              - Applied LoRA and P-Tuning techniques in fine-tuning the ChatGLM-6B model on a private dataset, increasing QA accuracy by 15% and user satisfaction to 84.8%.
+              - Constructed a Kafka real-time data streaming system, optimized the cost of data processing and storage by 60%; the system processes over 20 GB of data daily.
+              * **R&D Platform**: 
+              - Participated in the design of the micro-frontend architecture; built a component library with Vue.js, optimized the implementation with Nginx, Docker, and Jenkins, established coding standards, accelerated development cycle by 40%, reduced implementation time by 50%, served 500,000 users, and completed and delivered 43 projects annually.
+              * **Marketing Management System**: 
+              - Served as the front-end team leader, led a team of 11 people to complete the development of over 100 pages and 8 major modules within three months; applied virtual scrolling and lazyload techniques, which reduced page loading time by 90%; improved product quality and user experience in a data-driven manner.
         - title: Research Assistant
           company: University of Chinese Academy of Sciences
           company_url: 'https://english.ucas.ac.cn/'
